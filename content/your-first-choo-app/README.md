@@ -28,7 +28,7 @@ Glitch lets us write, edit and deploy JavaScript code in the browser. This is us
 
 A starter project is available for you to follow along with this guide: [https://glitch.com/edit/#!/project/choo-animals-starter](https://glitch.com/edit/#!/project/choo-animals-starter)
 
-When the editor has finished loading, you should make your own copy of the project so you can start coding. To do this, click the `Remix this` button near the top left hand corner of the window:
+When the editor has finished loading, you should make your own copy of the project so you can start coding. To do this, click the `Remix to Edit` button near the top right hand corner of the window:
 
 ![remix](images/remix-this.png "Screenshot of remix this button")
 
